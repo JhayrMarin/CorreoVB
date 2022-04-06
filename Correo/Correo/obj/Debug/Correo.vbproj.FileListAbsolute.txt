@@ -1,0 +1,41 @@
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\bin\Debug\Correo.exe.config
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.vbprojResolveAssemblyReference.cache
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.Form1.resources
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.Resources.resources
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.vbproj.GenerateResource.Cache
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.xml
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\bin\Debug\Correo.exe
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\bin\Debug\Correo.pdb
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\bin\Debug\Correo.xml
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.exe
+C:\Users\jhasc\OneDrive\Escritorio\Correo\Correo\obj\Debug\Correo.pdb
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\bin\Debug\Correo.exe.config
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.exe
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.xml
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.pdb
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\bin\Debug\Correo.exe
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\bin\Debug\Correo.pdb
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\bin\Debug\Correo.xml
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.vbprojResolveAssemblyReference.cache
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.Form1.resources
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.Resources.resources
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.vbproj.GenerateResource.Cache
+C:\Users\jhasc\OneDrive\Escritorio\Desarrollo\Correo\Correo\obj\Debug\Correo.vbproj.ResolveComReference.cache
+C:\Users\jhasc\OneDrive\Escritorio\NO TOCAR\Desarrollo\Correo\Correo\bin\Debug\Correo.exe.config
+C:\Users\jhasc\OneDrive\Escritorio\NO TOCAR\Desarrollo\Correo\Correo\obj\Debug\Correo.vbproj.ResolveComReference.cache
+C:\Users\jhasc\OneDrive\Escritorio\NO TOCAR\Desarrollo\Correo\Correo\obj\Debug\Correo.exe
+C:\Users\jhasc\OneDrive\Escritorio\NO TOCAR\Desarrollo\Correo\Correo\obj\Debug\Correo.xml
+C:\Users\jhasc\OneDrive\Escritorio\NO TOCAR\Desarrollo\Correo\Correo\obj\Debug\Correo.pdb
+C:\Users\Alpha\Desktop\Correo\Correo\bin\Debug\Correo.exe.config
+C:\Users\Alpha\Desktop\Correo\Correo\bin\Debug\Correo.exe
+C:\Users\Alpha\Desktop\Correo\Correo\bin\Debug\Correo.pdb
+C:\Users\Alpha\Desktop\Correo\Correo\bin\Debug\Correo.xml
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.vbprojAssemblyReference.cache
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.vbproj.ResolveComReference.cache
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.Form1.resources
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.Resources.resources
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.vbproj.GenerateResource.cache
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.vbproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.exe
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.xml
+C:\Users\Alpha\Desktop\Correo\Correo\obj\Debug\Correo.pdb
